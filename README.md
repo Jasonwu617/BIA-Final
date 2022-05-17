@@ -6,6 +6,6 @@ Contributions:
 
 Hamed: Activation_of_layers.ipynb, Model_retraining.ipynb, select_images.ipynb
 
-Gabe: rdms.ipynb
+Gabe: rdms.ipynb, fmri_simulation_saved.ipynb
 
 Jason: Models.ipynb, fmri simulation.ipynb, PCA.ipynb
